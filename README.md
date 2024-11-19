@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @JClem2
+- 👀  I’m interested in robotics, web development, and creating innovative tech solutions.
+- 🌱 I’m currently learning Java and Python, while honing my skills in database management and cloud architecture.
+- 💞️ I’m looking to collaborate on projects involving database integrations, web development, or creative uses of Raspberry Pi and IoT.
+- 📫 How to reach me: Jmclem221@gmail.com or at my [LinkedIn page](https://www.linkedin.com/in/jonathan-clement-19a471180).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Fun fact: I’ve built and programmed a bipedal robot for demonstrations and love solving technical challenges, whether in IT or on my car!
